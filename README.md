@@ -33,7 +33,7 @@ It helps management track productivity, sales growth, and target achievements ac
 ---
 
 ## 🖼 Dashboard Preview
-![Employee Data Sales Dashboard](Dashboard preview.jpg)
+![Employee Data Sales Dashboard](Dashboard%20preview.jpg)
 
 ---
 
